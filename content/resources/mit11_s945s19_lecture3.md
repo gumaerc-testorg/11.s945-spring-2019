@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Selected Lecture Notes
 parent_type: CourseSection
+parent_uid: e9963c26-ea09-4314-7001-7110e9039f2e
 resourcetype: Document
 title: MIT11_s945s19_Lecture3
 uid: c0bccac9-6692-8de4-5dbe-df0dc545764c
