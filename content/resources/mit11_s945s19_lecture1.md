@@ -5,6 +5,7 @@ file: /courses/11-s945-equity-inclusion-local-policy-driven-strategies-for-econo
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Selected Lecture Notes
 parent_type: CourseSection
