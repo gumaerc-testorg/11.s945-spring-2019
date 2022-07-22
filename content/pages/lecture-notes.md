@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: A table of links to pdfs of lecture notes for selected lectures in 11.S945.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Selected Lecture Notes
 uid: e9963c26-ea09-4314-7001-7110e9039f2e
 ---
@@ -24,9 +28,9 @@ Lecture Notes
 {{< tdopen >}}
 
 
-[Planning as Theory & Practice, part I (PDF)]({{< baseurl >}}/resources/mit11_s945s19_lecture1)
+{{% resource_link 0aa90086-ed7b-67e1-2f12-231fe84db11e "Planning as Theory & Practice, part I (PDF)" %}}
 
-[Planning as Theory & Practice, part II (PDF)]({{< baseurl >}}/resources/mit11_s945s19_lecture2)
+{{% resource_link 97c9199d-b3e9-45e3-d5ec-7626da537003 "Planning as Theory & Practice, part II (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -39,9 +43,9 @@ Lecture Notes
 {{< tdopen >}}
    
 
-[Urbanization & Globalization: Lessons from the Rise & Fall of the Industrial City, part I (PDF)]({{< baseurl >}}/resources/mit11_s945s19_lecture3)
+{{% resource_link c0bccac9-6692-8de4-5dbe-df0dc545764c "Urbanization & Globalization: Lessons from the Rise & Fall of the Industrial City, part I (PDF)" %}}
 
-[Urbanization & Globalization: Lessons from the Rise & Fall of the Industrial City, part II (PDF)]({{< baseurl >}}/resources/mit11_s945s19_lecture4)
+{{% resource_link a48c8cd1-b45a-da85-0e54-e7156ca8f0c7 "Urbanization & Globalization: Lessons from the Rise & Fall of the Industrial City, part II (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -54,7 +58,7 @@ Lecture Notes
 {{< tdopen >}}
 
 
-[U.S. Urban Social Movements and New Space Claims (PDF)]({{< baseurl >}}/resources/mit11_s945s19_lecture5)
+{{% resource_link 049ccfc3-bbdf-7344-d054-d649ac8dfeae "U.S. Urban Social Movements and New Space Claims (PDF)" %}}
 
 
 {{< tdclose >}}
