@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/11-s945-equity-inclusion-local-policy-driven-strategies-for-economic-development-the-just-city-spring-2019/a48c8cd1b45ada850e54e7156ca8f0c7_MIT11_s945s19_Lecture4.pdf
+file: /courses/11-s945-equity-inclusion-local-policy-driven-strategies-for-economic-development-the-just-city-spring-2019/a48c8cd1b45ada850e54e7156ca8f0c7_MIT11_s945s19_Lecture4.pdf
 file_size: 124181
 file_type: application/pdf
 learning_resource_types:
