@@ -21,14 +21,14 @@ Guidelines:
 
 Possible topics:
 
-1. Proposed MBTA fare hikes (Boston): [Massachusetts Bay Transportation Authority Fare Increase Proposal (PDF)](https://cdn.mbta.com/sites/default/files/fmcb-meeting-docs/2019/01-january/2019-01-28-fmcb-fare-proposal-original.pdf)
-    - Opinion: "[Forget Fare Hikes—Make the T Free!](https://www.bostonglobe.com/opinion/2019/01/31/opinion-michelle-forget-fare-hikes-make-free/vJpKVu6Rft2C4Esi50mB5M/story.html)" 
-2. Prop C (San Francisco): [Legal text of ballot measure (PDF)](https://web.archive.org/web/20181108203754/https://sfelections.sfgov.org/sites/default/files/Documents/candidates/Nov%202018/LT_C.pdf)
-    - Opinion: "[Vote No on Prop. C — More Spending without a Plan Won’t Address Homelessness](https://www.sfchronicle.com/opinion/openforum/article/Vote-no-on-Prop-C-Taxing-business-to-help-13257616.php)" 
-    - Opinion: "[To Close the Income Gap, Our City Government Must First Lead by Example](http://www.sfexaminer.com/close-income-gap-city-government-must-first-lead-example/)"
-3. Merging St. Louis and St. Louis County: [St. Louis City-County Governance Task Force Report to the Community](https://drive.google.com/file/d/1bOFQ3HTYUzQwEjJsl2y-3bqB8VyeY8j-/view) 
-    - Opinion: "[Time is Right for a New Board of Electors / County Goes Back to the Drawing Board (PDF)](http://mediad.publicbroadcasting.net/p/kwmu/files/201901/post_dispatch_articles_from_hp______6.30.94-8.18.94.pdf)"
-    - News: "[As Better Together Plan Looms, Municipal League Seeks Alternative City-County Merger Plan](https://news.stlpublicradio.org/post/better-together-plan-looms-municipal-league-seeks-alternative-city-county-merger-plan#stream/0)"
+1. Proposed MBTA fare hikes (Boston): {{% resource_link "3c541aae-e2f2-4c35-9c2d-45624bc08f1c" "Massachusetts Bay Transportation Authority Fare Increase Proposal (PDF)" %}}
+    - Opinion: "{{% resource_link "83ff2e10-2350-4cac-865b-250ecfce106b" "Forget Fare Hikes—Make the T Free!" %}}" 
+2. Prop C (San Francisco): {{% resource_link "5bf04559-72da-470a-9a72-cbf214bd1d9f" "Legal text of ballot measure (PDF)" %}}
+    - Opinion: "{{% resource_link "301e2653-9773-4288-a3e1-5866cc0f49bc" "Vote No on Prop. C — More Spending without a Plan Won’t Address Homelessness" %}}" 
+    - Opinion: "{{% resource_link "2d05db79-9648-40b4-8dff-4190b541c3a2" "To Close the Income Gap, Our City Government Must First Lead by Example" %}}"
+3. Merging St. Louis and St. Louis County: {{% resource_link "79f0ab9b-4761-45a1-8d76-b3edd05c2396" "St. Louis City-County Governance Task Force Report to the Community" %}} 
+    - Opinion: "{{% resource_link "2a9aa952-043e-4d17-9899-b3d07871fb9d" "Time is Right for a New Board of Electors / County Goes Back to the Drawing Board (PDF)" %}}"
+    - News: "{{% resource_link "bfc9cc59-0e45-4f9a-a332-a582366f122b" "As Better Together Plan Looms, Municipal League Seeks Alternative City-County Merger Plan" %}}"
 
 ## Case Study Analysis and Presentation (due weeks 6–8)
 
